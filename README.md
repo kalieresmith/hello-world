@@ -1,4 +1,4 @@
 # hello-world
-Assignment for school part 1.
+Assignment for school.
 
 My name is Kalie Smith.
