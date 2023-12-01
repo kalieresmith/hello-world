@@ -1,4 +1,4 @@
 # hello-world
-Assignment for school.
+Assignment for computer science.
 
 My name is Kalie Smith.
