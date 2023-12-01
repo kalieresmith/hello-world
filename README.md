@@ -1,2 +1,2 @@
 # hello-world
-Assignment for school part 1.
+Assignment for computer science.
